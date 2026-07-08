@@ -1,2 +1,2 @@
 nowsza wiadomosc T1
-ala ma kota
+ala ma kota kot ma ale
