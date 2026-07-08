@@ -1,2 +1,2 @@
 nowsza wiadomosc T1
-tomek ma kota kot ma ale
+Cos sie zle dzieje i wywolujemy konflikt
