@@ -1,1 +1,2 @@
 wiadomość testowa
+test konfliktu
