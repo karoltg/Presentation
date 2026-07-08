@@ -1,1 +1,2 @@
-wiadomość testowa
+nowsza wiadomosc T1
+ala ma kota
